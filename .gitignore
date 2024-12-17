@@ -1,2 +1,3 @@
 #lista de arquivos a serem ignorados pelo git para não serem inseridos no commit
 #gitignore.io para site de arquivos de outras linguagens a serem ignoradas
+temp/
