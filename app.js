@@ -1,9 +1,3 @@
-/*let titulo = document.querySelector('h1');
-titulo.innerHTML = 'Jogo do Número Secreto';
-
-let paragrafo = document.querySelector('p')
-paragrafo.innerHTML = 'Escolha um número entre 1 e 10'*/
-
 let listaDeNumerosSorteados = [];
 let dificuldade = 100;
 let tentativas = 1;
